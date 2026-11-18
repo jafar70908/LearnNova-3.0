@@ -1,0 +1,6 @@
+{
+  "name": "Michael Smith — Creative Portfolio",
+  "description": "Single-page dark creative portfolio for Michael Smith, featuring interactive motion studies, architectural works, journal essays, and visual explorations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
